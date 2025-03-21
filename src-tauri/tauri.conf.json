@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "tauri2-svelte5-shadcn",
+        "title": "crmka",
         "width": 800,
         "height": 600,
         "resizable": true,
