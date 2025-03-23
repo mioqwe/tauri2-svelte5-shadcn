@@ -22,24 +22,24 @@ const config: Config = {
 				background: "hsl(var(--background) / <alpha-value>)",
 				foreground: "hsl(var(--foreground) / <alpha-value>)",
 				primary: {
-					DEFAULT: "hsl(var(--primary) / <alpha-value>)",
-					foreground: "hsl(var(--primary-foreground) / <alpha-value>)"
+					DEFAULT: "#393E46",
+					// foreground: "hsl(var(--primary-foreground) / <alpha-value>)"
 				},
 				secondary: {
-					DEFAULT: "hsl(var(--secondary) / <alpha-value>)",
-					foreground: "hsl(var(--secondary-foreground) / <alpha-value>)"
+					DEFAULT: "#ffffff",
+					// foreground: "hsl(var(--secondary-foreground) / <alpha-value>)"
 				},
 				destructive: {
-					DEFAULT: "hsl(var(--destructive) / <alpha-value>)",
-					foreground: "hsl(var(--destructive-foreground) / <alpha-value>)"
+					DEFAULT: "#ffaaff",
+					// foreground: "hsl(var(--destructive-foreground) / <alpha-value>)"
 				},
 				muted: {
 					DEFAULT: "hsl(var(--muted) / <alpha-value>)",
 					foreground: "hsl(var(--muted-foreground) / <alpha-value>)"
 				},
 				accent: {
-					DEFAULT: "hsl(var(--accent) / <alpha-value>)",
-					foreground: "hsl(var(--accent-foreground) / <alpha-value>)"
+					DEFAULT: "#ffaaff",
+					// foreground: "hsl(var(--accent-foreground) / <alpha-value>)"
 				},
 				popover: {
 					DEFAULT: "hsl(var(--popover) / <alpha-value>)",
